@@ -1,1 +1,11 @@
+com\entidades\session\EstadocivilFacade.class
+com\entidades\session\CargoFacade.class
+com\tienda\entidades\Estadocivil.class
+com\entidades\session\EmpleadoFacade.class
+com\entidades\session\AbstractFacade.class
+com\entidades\session\EstadocivilFacadeLocal.class
+com\tienda\entidades\Empleado.class
+com\entidades\session\EmpleadoFacadeLocal.class
+com\tienda\entidades\Cargo.class
 com\mycompany\NewSessionBean.class
+com\entidades\session\CargoFacadeLocal.class
